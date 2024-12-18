@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER Darren Williams <support@directvoip.co.uk>
+MAINTAINER Solomatin Kirill <test.test@test.ru>
 
 # Install Required Dependencies
 RUN apt-get update \
